@@ -8,11 +8,11 @@ Building My First CLI Gem
   to learn more about the company.
 
 - After the user makes a selection, the following company details will be displayed:
-    - What They Do
-    - Number of Employees Worldwide
-    - Worldwide Revenues
-    - Work-Life Balance Programs
-    - Employee Ratings on:
+    - What They Do (:description)
+    - Number of Employees Worldwide (:number_of_employees)
+    - Worldwide Revenues (:revenues)
+    - Work-Life Balance Programs (:programs)
+    - Employee Ratings on: (:employee_ratings)
       - Challenges
       - Atmosphere
       - Rewards

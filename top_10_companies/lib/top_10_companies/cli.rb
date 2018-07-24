@@ -9,9 +9,11 @@ class Top10Companies::CLI
 
   end
 
-  def list_companies
-    
-  end
+
+
+  # def list_companies
+  #
+  # end
 
 
 
