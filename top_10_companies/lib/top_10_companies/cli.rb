@@ -1,3 +1,5 @@
+#CLI Controller
+
 class Top10Companies::CLI
 
   def welcome
@@ -6,6 +8,12 @@ class Top10Companies::CLI
     Top10Companies::Scraper.scrape_companies
 
   end
+
+  def list_companies
+    
+  end
+
+
 
 
 end
